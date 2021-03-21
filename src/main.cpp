@@ -1,1 +1,1 @@
-#include "../include/TemplateProject/main.h"
+#include "../include/TemplateProject/main.hpp"
